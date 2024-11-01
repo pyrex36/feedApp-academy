@@ -2,7 +2,7 @@
 # Logger
 logging.level:
   web: DEBUG
-  '[com.bptn.feedapp]': DEBUG
+  '[com.bptn.feedApp]': DEBUG
 
 server:
   port: 8080
